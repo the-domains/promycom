@@ -1,0 +1,14 @@
+layout_spectrum: 0.6649269754998386
+typography_spectrum: 0.5182606421876699
+color:
+  brandStrength: 0.22162282466888428
+  lightness: 0.926881750812754
+  saturation: 0.7052604062482715
+  rhythmicContrast: 0.8398612572345883
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: promycom
